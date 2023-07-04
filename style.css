@@ -1,0 +1,33 @@
+body {
+    background: hsl(212, 45%, 89%);
+
+}
+
+.background {
+    background: hsl(212, 45%, 89%);
+    border-width: 100px 10px;
+    border-style: solid;
+    border-color: hsl(212, 45%, 89%);
+}
+
+.box {
+    background: white;
+    border-radius: 25px;
+    padding: 1em;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+    text-align: center;
+}
